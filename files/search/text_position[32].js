@@ -1,0 +1,1 @@
+positionForPages[32]={"page":32,"positions":[{"word":"31","left":0.492275,"top":0.940917,"width":0.015350,"height":0.007724},{"word":"113/11/02 \u91cd\u805a\u6d3b\u52d5\u6d41\u7a0b","left":0.376008,"top":0.872576,"width":0.249163,"height":0.014778}]};

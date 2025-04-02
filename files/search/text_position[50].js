@@ -1,0 +1,1 @@
+positionForPages[50]={"page":50,"positions":[{"word":"49","left":0.491820,"top":0.940917,"width":0.015855,"height":0.007724},{"word":"\u5341\u3001\u7b2c\u5341\u4e94\u5c46\u7406\u76e3\u4e8b\u540d\u55ae---\u9644\u4ef6\u4e09","left":0.097803,"top":0.081012,"width":0.360602,"height":0.015542}]};

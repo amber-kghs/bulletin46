@@ -1,0 +1,1 @@
+positionForPages[33]={"page":33,"positions":[{"word":"32","left":0.492275,"top":0.940917,"width":0.015316,"height":0.007724},{"word":"\u5341","left":0.097803,"top":0.851604,"width":0.018340,"height":0.014513},{"word":"73 \u7d1a\u56db\u5341\u91cd\u805a\u53ec\u96c6\u4ee4","left":0.392798,"top":0.893963,"width":0.214838,"height":0.014778}]};
